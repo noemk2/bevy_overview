@@ -2,6 +2,8 @@
 
 use bevy::prelude::*;
 
+const PLAYER_SPRITE: &str = "player_a_01.png" ;
+
 fn main() {
-    println!("Hello, world!");
+App::build().insert_resource()
 }
